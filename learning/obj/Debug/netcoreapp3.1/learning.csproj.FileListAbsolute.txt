@@ -1,0 +1,14 @@
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/bin/Debug/netcoreapp3.1/learning
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/bin/Debug/netcoreapp3.1/learning.deps.json
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/bin/Debug/netcoreapp3.1/learning.runtimeconfig.json
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/bin/Debug/netcoreapp3.1/learning.runtimeconfig.dev.json
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/bin/Debug/netcoreapp3.1/learning.dll
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/bin/Debug/netcoreapp3.1/learning.pdb
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.csproj.AssemblyReference.cache
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.AssemblyInfoInputs.cache
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.AssemblyInfo.cs
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.csproj.CoreCompileInputs.cache
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.dll
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.pdb
+/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/Debug/netcoreapp3.1/learning.genruntimeconfig.cache
