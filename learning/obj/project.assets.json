@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/piotrgrzela/Desktop/CS2022/learning/learning/learning.csproj",
+      "projectUniqueName": "/Users/piotrgrzela/Desktop/CS2022/Csharp2022/learning/learning.csproj",
       "projectName": "learning",
-      "projectPath": "/Users/piotrgrzela/Desktop/CS2022/learning/learning/learning.csproj",
+      "projectPath": "/Users/piotrgrzela/Desktop/CS2022/Csharp2022/learning/learning.csproj",
       "packagesPath": "/Users/piotrgrzela/.nuget/packages/",
-      "outputPath": "/Users/piotrgrzela/Desktop/CS2022/learning/learning/obj/",
+      "outputPath": "/Users/piotrgrzela/Desktop/CS2022/Csharp2022/learning/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/piotrgrzela/.nuget/NuGet/NuGet.Config"
